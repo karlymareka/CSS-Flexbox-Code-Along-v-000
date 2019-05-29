@@ -19,6 +19,7 @@ main {
   flex-direction: column;
   flex-flow: wrap;
   justify-content: center;
+  align-items: center;
 }
 
 footer {
