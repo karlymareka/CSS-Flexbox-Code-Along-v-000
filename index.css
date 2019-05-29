@@ -20,7 +20,7 @@ main {
   flex-flow: row wrap;
   justify-content: center;
   align-items: center;
-  flex-basis: 50%;
+  flex-basis: 100%;
 }
 
 footer {
